@@ -2,3 +2,11 @@ body{
     background-color:honeydew;
     font-family:'Times New Roman', Times, serif;
 }
+
+.resource-card{
+    border: 2;
+    border-radius: 80%;
+    border-color: darkgreen;
+    border-style: dotted;
+
+}
